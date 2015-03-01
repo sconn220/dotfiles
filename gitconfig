@@ -1,0 +1,12 @@
+[user]
+	name = Scott O'Connor
+	email = sconn220@gmail.com
+
+
+[color "status"]
+	changed = red
+	added = green
+[color]
+	ui = true
+[core]
+	editor = vim
